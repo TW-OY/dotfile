@@ -1,0 +1,104 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="junit_test" values="ECMAScript 5.1" collectionTime="1456969098428" />
+      <project id="unitTest" values="ECMAScript 5.1" collectionTime="1456981179604" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1451154542717" />
+      <project id="kata1" values="ECMAScript 5.1" collectionTime="1456919941154" />
+      <project id="guess-number-hateonion" values="ECMAScript 5.1" collectionTime="1458349340146" />
+      <project id="javaTest" values="ECMAScript 5.1" collectionTime="1456915924602" />
+      <project id="guessNumber" values="ECMAScript 5.1" collectionTime="1457055047388" />
+      <project id="pos-java-hateonion" values="ECMAScript 5.1" collectionTime="1457398690008" />
+      <project id="JunitTest" values="ECMAScript 5.1" collectionTime="1456981293744" />
+    </group>
+    <group name="module type">
+      <project id="junit_test" values="JAVA_MODULE" collectionTime="1456969098136" />
+      <project id="kata1" values="JAVA_MODULE" collectionTime="1456919940924" />
+      <project id="guess-number-hateonion" values="JAVA_MODULE" collectionTime="1458349338800" />
+      <project id="javaTest" values="JAVA_MODULE" collectionTime="1456915924460" />
+      <project id="guessNumber" values="JAVA_MODULE" collectionTime="1457055047164" />
+      <project id="pos-java-hateonion" values="JAVA_MODULE" collectionTime="1457398689648" />
+      <project id="untitled" values="JAVA_MODULE" collectionTime="1451154542493" />
+    </group>
+    <group name="vcs">
+      <project id="guessNumber" values="Git" collectionTime="1457055047164" />
+      <project id="guess-number-hateonion" values="Git" collectionTime="1458349338800" />
+      <project id="pos-java-hateonion" values="Git" collectionTime="1457398689647" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="guessNumber" values="Application,JUnit" collectionTime="1457055047165" />
+      <project id="untitled" values="Application" collectionTime="1451154542494" />
+      <project id="guess-number-hateonion" values="JUnit" collectionTime="1458349338801" />
+      <project id="pos-java-hateonion" values="Application,JUnit" collectionTime="1457398689648" />
+      <project id="javaTest" values="Application" collectionTime="1456915924460" />
+    </group>
+    <group name="file-type">
+      <project id="junit_test" values="JAVA,PLAIN_TEXT,XML,UNKNOWN,IDEA_MODULE,ARCHIVE" collectionTime="1456969098226" />
+      <project id="unitTest" values="UNKNOWN" collectionTime="1456981179497" />
+      <project id="untitled" values="UNKNOWN,HTML,IDEA_MODULE,XML,JAVA" collectionTime="1451154542707" />
+      <project id="kata1" values="UNKNOWN" collectionTime="1456919941042" />
+      <project id="guess-number-hateonion" values="IDEA_MODULE,XML,UNKNOWN,PLAIN_TEXT,JAVA,Git file,ARCHIVE" collectionTime="1458349339243" />
+      <project id="javaTest" values="UNKNOWN" collectionTime="1456915924474" />
+      <project id="guessNumber" values="ARCHIVE,Git file,IDEA_MODULE,JAVA,UNKNOWN,XML,PLAIN_TEXT" collectionTime="1457055047226" />
+      <project id="pos-java-hateonion" values="UNKNOWN,PLAIN_TEXT,JAVA,IDEA_MODULE,Git file,ARCHIVE,XML" collectionTime="1457398689862" />
+      <project id="JunitTest" values="UNKNOWN" collectionTime="1456981293732" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="junit_test" values="Project,Project" collectionTime="1456969098428" />
+      <project id="unitTest" values="Project,Project" collectionTime="1456981179604" />
+      <project id="untitled" values="Project,Project" collectionTime="1451154542717" />
+      <project id="kata1" values="Project,Project" collectionTime="1456919941154" />
+      <project id="guess-number-hateonion" values="Project,Project" collectionTime="1458349340146" />
+      <project id="javaTest" values="Project,Project" collectionTime="1456915924602" />
+      <project id="guessNumber" values="Project,Project" collectionTime="1457055047388" />
+      <project id="pos-java-hateonion" values="Project,Project" collectionTime="1457398690008" />
+      <project id="JunitTest" values="Project,Project" collectionTime="1456981293744" />
+    </group>
+    <group name="Git">
+      <project id="junit_test" values="config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.ssh.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled" collectionTime="1456969098239" />
+      <project id="unitTest" values="config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1456981179543" />
+      <project id="kata1" values="config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled" collectionTime="1456919941052" />
+      <project id="guess-number-hateonion" values="config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.remote.branches.count.1,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,data.local.branches.count.1,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1458349339910" />
+      <project id="javaTest" values="config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled" collectionTime="1456915924490" />
+      <project id="guessNumber" values="config.ssh.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,data.remotes.in.project.0,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,data.remote.branches.count.0" collectionTime="1457055047249" />
+      <project id="pos-java-hateonion" values="config.warn.about.detached.enabled,config.force.push.enabled,data.remotes.in.project.1,data.remote.branches.count.1,config.ssh.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1457398689897" />
+      <project id="JunitTest" values="config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.force.push.enabled" collectionTime="1456981293736" />
+    </group>
+    <group name="libraries">
+      <project id="guessNumber" values="repository" collectionTime="1457055047235" />
+      <project id="guess-number-hateonion" values="repository" collectionTime="1458349339284" />
+      <project id="pos-java-hateonion" values="repository" collectionTime="1457398689877" />
+    </group>
+    <group name="language-level">
+      <project id="junit_test" values="JDK_1_8" collectionTime="1456969098235" />
+      <project id="unitTest" values="JDK_1_6" collectionTime="1456981179541" />
+      <project id="untitled" values="JDK_1_8" collectionTime="1451154542714" />
+      <project id="kata1" values="JDK_1_8" collectionTime="1456919941050" />
+      <project id="guess-number-hateonion" values="JDK_1_8" collectionTime="1458349339901" />
+      <project id="javaTest" values="JDK_1_8" collectionTime="1456915924487" />
+      <project id="guessNumber" values="JDK_1_8" collectionTime="1457055047242" />
+      <project id="pos-java-hateonion" values="JDK_1_8" collectionTime="1457398689890" />
+      <project id="JunitTest" values="JDK_1_6" collectionTime="1456981293735" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.DEFAULT" count="3" />
+      <entry feature="execute.Application.Debug" count="1" />
+      <entry feature="execute.Application.Run" count="20" />
+      <entry feature="execute.JUnit.Debug" count="8" />
+      <entry feature="execute.JUnit.Run" count="140" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="4" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ideaapp.started" count="20" />
+      <entry feature="terminal.mac" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="16" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="3" />
+    </counts>
+  </component>
+</application>

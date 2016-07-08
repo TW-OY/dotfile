@@ -1,0 +1,82 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="learn_nodejs" values="NodeJSConfigurationType" collectionTime="1457678269988" />
+      <project id="lcd-digits-node-hateonion" values="NodeJSConfigurationType" collectionTime="1457685947896" />
+      <project id="lcd-digits-hateonion" values="NodeJSConfigurationType" collectionTime="1457678479050" />
+    </group>
+    <group name="Git">
+      <project id="pos-js-hateonion" values="data.remotes.in.project.1,config.warn.about.detached.enabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1456912272105" />
+      <project id="learn_nodejs" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1457678269990" />
+      <project id="lcd-digits-node-hateonion" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,data.remote.branches.count.1,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1457685947899" />
+      <project id="main" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1456464242183" />
+      <project id="lcd-digits-hateonion" values="config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,data.local.branches.count.1,data.remote.branches.count.1,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT" collectionTime="1457678479052" />
+      <project id="untitled" values="config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1456464579405" />
+    </group>
+    <group name="vcs">
+      <project id="lcd-digits-node-hateonion" values="Git" collectionTime="1457685947895" />
+      <project id="pos-js-hateonion" values="Git" collectionTime="1456912272091" />
+      <project id="lcd-digits-hateonion" values="Git" collectionTime="1457678479050" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="pos-js-hateonion" values="ECMAScript 5.1" collectionTime="1456912272190" />
+      <project id="learn_nodejs" values="ECMAScript 5.1" collectionTime="1457678269993" />
+      <project id="lcd-digits-node-hateonion" values="ECMAScript 6" collectionTime="1457685947900" />
+      <project id="main" values="ECMAScript 5.1" collectionTime="1456464242189" />
+      <project id="lcd-digits-hateonion" values="ECMAScript 5.1" collectionTime="1457678479053" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1456464579406" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="lcd-digits-node-hateonion" values="NodeJSConfigurationType,js.build_tools.npm" collectionTime="1457685947896" />
+      <project id="lcd-digits-hateonion" values="NodeJSConfigurationType" collectionTime="1457678479050" />
+    </group>
+    <group name="file-type">
+      <project id="pos-js-hateonion" values="JavaScript,UNKNOWN,XML,PLAIN_TEXT,HTML,CSS,Images" collectionTime="1456912272098" />
+      <project id="learn_nodejs" values="JavaScript,PLAIN_TEXT,UNKNOWN,XML" collectionTime="1457678269989" />
+      <project id="lcd-digits-node-hateonion" values="JSON,JavaScript,XML,UNKNOWN,PLAIN_TEXT" collectionTime="1457685947898" />
+      <project id="main" values="UNKNOWN,XML,JavaScript,PLAIN_TEXT" collectionTime="1456464242178" />
+      <project id="lcd-digits-hateonion" values="XML,CSS,UNKNOWN,HTML,Images,JavaScript,PLAIN_TEXT" collectionTime="1457678479051" />
+      <project id="untitled" values="UNKNOWN,XML,PLAIN_TEXT" collectionTime="1456464579405" />
+    </group>
+    <group name="module type">
+      <project id="pos-js-hateonion" values="WEB_MODULE" collectionTime="1456912272091" />
+      <project id="learn_nodejs" values="WEB_MODULE" collectionTime="1457678269988" />
+      <project id="lcd-digits-node-hateonion" values="WEB_MODULE" collectionTime="1457685947896" />
+      <project id="main" values="WEB_MODULE" collectionTime="1456464242171" />
+      <project id="lcd-digits-hateonion" values="WEB_MODULE" collectionTime="1457678479050" />
+      <project id="untitled" values="WEB_MODULE" collectionTime="1456464579403" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="lcd-digits-node-hateonion" values="node_modules" collectionTime="1457685947900" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="pos-js-hateonion" values="Project,Project" collectionTime="1456912272190" />
+      <project id="learn_nodejs" values="Project,Project" collectionTime="1457678269993" />
+      <project id="lcd-digits-node-hateonion" values="Project,Project,Project,Directory" collectionTime="1457685947900" />
+      <project id="main" values="Project,Project" collectionTime="1456464242189" />
+      <project id="lcd-digits-hateonion" values="Project,Project" collectionTime="1457678479053" />
+      <project id="untitled" values="Project,Project" collectionTime="1456464579406" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="NewDirectoryProjectAction.Empty Project" count="1" />
+      <entry feature="execute.NodeJSConfigurationType.Debug" count="20" />
+      <entry feature="execute.NodeJSConfigurationType.Run" count="6" />
+      <entry feature="execute.js.build_tools.npm.Run" count="4" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="2" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.JavaScript" count="5" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ideaapp.started" count="7" />
+      <entry feature="terminal.mac" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="3" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

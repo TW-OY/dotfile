@@ -1,0 +1,15 @@
+<application>
+  <component name="DimensionService">
+    <location key="#Browse_Repositories.0.0.1280.800" x="120" y="46" />
+    <location key="#Plugins.0.0.1280.800" x="132" y="49" />
+    <location key="WELCOME_SCREEN.0.0.1280.800" x="639" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1280.800" x="358" y="208" />
+    <location key="SettingsEditor.0.0.1280.800" x="138" y="43" />
+    <location key="ProcessPopupWindow.0.0.1280.800" x="612" y="502" />
+    <size key="ProcessPopupWindow.0.0.1280.800" width="653" height="235" />
+    <size key="GridCell.Tab.0.left.0.0.1280.800" width="1260" height="175" />
+    <size key="GridCell.Tab.0.center.0.0.1280.800" width="1260" height="175" />
+    <size key="GridCell.Tab.0.right.0.0.1280.800" width="1260" height="175" />
+    <size key="GridCell.Tab.0.bottom.0.0.1280.800" width="1260" height="175" />
+  </component>
+</application>

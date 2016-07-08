@@ -1,0 +1,36 @@
+"*":
+  "exception-reporting":
+    userId: "c00a4fdb-66ef-aaaa-ed5d-9ae9876b9c98"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-dark-ui"
+      "monokai"
+    ]
+    packagesWithKeymapsDisabled: [
+      "emmet"
+    ]
+    disabledPackages: [
+      "vim-mode"
+    ]
+  editor:
+    invisibles: {}
+    fontFamily: "dejavu sans mono"
+    fontSize: 20
+    tabLength: 4
+  "autocomplete-plus": {}
+  minimap:
+    absoluteMode: true
+    displayMinimapOnLeft: true
+  "vim-surround": {}
+  "vim-mode": {}
+  "markdown-preview":
+    useGitHubStyle: true
+    liveUpdate: false
+  emmet: {}
+  autosave:
+    enabled: true
+".html.jinja.text":
+  editor:
+    autoIndent: true

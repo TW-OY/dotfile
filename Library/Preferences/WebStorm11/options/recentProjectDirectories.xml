@@ -1,0 +1,97 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/project/private/nodejs/lcd-digits-node-hateonion" />
+        <option value="$USER_HOME$/project/private/js/lcd-digits-hateonion" />
+        <option value="$USER_HOME$/project/private/nodejs/learn_nodejs" />
+        <option value="/" />
+        <option value="$USER_HOME$/github/pos-js-hateonion" />
+        <option value="$USER_HOME$/github/pos-js-hateonion/pos_v1/main" />
+        <option value="$USER_HOME$/WebstormProjects/untitled" />
+      </list>
+    </option>
+    <option name="additionalInfo">
+      <map>
+        <entry key="/">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457675666154" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456463836979" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/github/pos-js-hateonion">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457675591383" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/github/pos-js-hateonion/pos_v1/main">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456463891831" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/private/js/lcd-digits-hateonion">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457678433064" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/private/nodejs/lcd-digits-node-hateonion">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457678479053" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/private/nodejs/learn_nodejs">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457678193865" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/WebstormProjects" />
+  </component>
+</application>

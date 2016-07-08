@@ -1,0 +1,33 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="untitled1" values="ECMAScript 5.1" collectionTime="1449733497756" />
+    </group>
+    <group name="module type">
+      <project id="untitled1" values="PYTHON_MODULE" collectionTime="1449733497688" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="untitled1" values="PythonConfigurationType" collectionTime="1449733497689" />
+    </group>
+    <group name="file-type">
+      <project id="untitled1" values="Python,UNKNOWN,PLAIN_TEXT,XML" collectionTime="1449733497709" />
+    </group>
+    <group name="py-interpreter">
+      <project id="untitled1" values="Python 2.7.10" collectionTime="1449733497713" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="untitled1" values="Project,Project" collectionTime="1449733497756" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="NewDirectoryProjectAction.Flask" count="2" />
+      <entry feature="execute.PythonConfigurationType.Run" count="2" />
+      <entry feature="ideaapp.started" count="4" />
+      <entry feature="tips.of.the.day.next" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="1" />
+      <entry feature="welcome.screen.null" count="3" />
+    </counts>
+  </component>
+</application>

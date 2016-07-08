@@ -1,0 +1,122 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/github/pos-js-hateonion/pos_v1/main/genReceipt.js" timestamp="1456477058279">
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pos-js-hateonion/pos_v1/main/printInventory.js" timestamp="1456477131128">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/project/private/nodejs/learn_nodejs/hello.js" timestamp="1457678257598">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/project/private/nodejs/lcd-digits-node-hateonion/spec/numberToLcdString-test.js" timestamp="1457679417088">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/private/nodejs/lcd-digits-node-hateonion/spec/splitNumber-test.js" timestamp="1457685757054">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/project/private/nodejs/lcd-digits-node-hateonion/src/main.js" timestamp="1457678615588">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/private/nodejs/lcd-digits-node-hateonion/src/numberToLcdString.js" timestamp="1457685932409">
+        <mark key="'" line="14" column="24" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/github/pos-js-hateonion/pos_v1/test/genReceipt-test.js" timestamp="1456473037730">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="21" column="6" />
+      </file>
+      <file name="$USER_HOME$/github/pos-js-hateonion/pos_v1/test/genCart-test.js" timestamp="1456467737945">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="18" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="17" column="4" filename="$USER_HOME$/github/pos-js-hateonion/pos_v1/main/genReceipt.js" />
+      <jump line="34" column="22" filename="$USER_HOME$/github/pos-js-hateonion/pos_v1/main/genReceipt.js" />
+      <jump line="0" column="9" filename="$USER_HOME$/github/pos-js-hateonion/pos_v1/main/genReceipt.js" />
+      <jump line="33" column="9" filename="$USER_HOME$/github/pos-js-hateonion/pos_v1/main/genReceipt.js" />
+      <jump line="14" column="24" filename="$USER_HOME$/project/private/nodejs/lcd-digits-node-hateonion/src/numberToLcdString.js" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhciBwcmludF9wYXR0ZXJuID0gIuWQjeensO+8miIgKyByZWNlaXB0X2l0ZW0uY2FydEl0ZW0uaXRlbS5uYW1lICsgIu+8jCIgKyAi5pWw6YeP77yaIiArIHJlY2VpcHRfaXRlbS5jYXJ0SXRlbS5hbW91bnQgKyByZWNlaXB0X2l0ZW0uY2FydEl0ZW0uaXRlbS51bml0ICsgIu+8jOWNleS7t++8miIgKyByZWNlaXB0X2l0ZW0uY2FydEl0ZW0uaXRlbS5wcmljZS50b0ZpeGVkKDIpICsgIijlhYMp77yM5bCP6K6h77yaIiArIChyZWNlaXB0X2l0ZW0udG90YWwgLSByZWNlaXB0X2l0ZW0uc2F2ZSkudG9GaXhlZCgyKSArICIo5YWDKVxuIjsKICAgIHByaW50X2NvbnRlbnQgKz0gcHJpbnRfcGF0dGVybjsK</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">dmFyIA==</text>
+      </register>
+      <register name="2" type="4">
+        <text>;</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">dmFyIA==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">dmFyIA==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">dmFyIA==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhciBtYXBwaW5nID0gbnVtYmVyVG9MY2RTdHJpbmcubG9hZE1hcHBpbmcoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhciAgPSBudW1iZXJUb0xjZFN0cmluZy5sb2FkTWFwcGluZygpOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>mapping</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">dmFyIA==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">dmFyIA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>bn</entry>
+        <entry>w</entry>
+        <entry>bp</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
